@@ -1,0 +1,9 @@
+{
+    "author": "Michael V. DePalatis",
+    "appname": "React Webapp",
+    "version": "0.1.0",
+    "description": "A React-powered web app",
+    "license": "AGPL",
+    "style_file": "style.css",
+    "entry_point": "index.js"
+}
