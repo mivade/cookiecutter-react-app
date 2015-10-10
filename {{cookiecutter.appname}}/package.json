@@ -6,7 +6,6 @@
   "scripts": {
       "test": ""
   },
-  "keywords": {{cookiecutter.keywords}},
   "author": "{{cookiecutter.author}}",
   "license": "{{cookiecutter.license}}",
   "dependencies": {
